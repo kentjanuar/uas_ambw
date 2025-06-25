@@ -17,6 +17,9 @@ Aplikasi flutter untuk mencatat mood
 2. Run the app:
    flutter run
 
+3.Jika ingin untuk build apk:
+flutter build apk
+(manifest sudah saya sesuaikan supaya bisa connect internet)
 
 ## akun testing
 Username: c14220124@john.petra.ac.id
